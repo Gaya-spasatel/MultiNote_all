@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MultiNote</string>
+    <string name="text_auto">Authorization</string>
+    <string name="button_enter">Log in</string>
+    <string name="button_register">Register</string>
+    <string name="no_notes">No notes</string>
+    <string name="add_access">Add access</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="back">Back</string>
+    <string name="change">Change</string>
+    <string name="save">Save</string>
+</resources>
